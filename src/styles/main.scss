@@ -1,0 +1,83 @@
+@import "~antd/dist/antd.css";
+
+.site-header {
+  margin-left: -24px;
+}
+
+.site-content {
+  padding: 50px 100px;
+  background-color: #fff;
+}
+
+.site-content-body {
+  padding: 30px;
+}
+
+.site-content-search {
+  padding-bottom: 30px;
+}
+
+.site-layout {
+  height: 100vh;
+}
+
+.site-forecast {
+  padding: 20px;
+}
+
+.site-side-weather {
+  padding: 230px 50px;
+  text-align: center;
+}
+.site-side-title {
+  font-size: 35px;
+  color: white;
+}
+
+.today-weather {
+  margin-top: 30px;
+}
+
+.today-weather-temp {
+  font-size: 80px;
+}
+
+.today-weather-desc {
+  font-size: 17px;
+  color: lightsteelblue;
+}
+
+.today-weather-detail {
+  font-size: 17px;
+  color: lightsteelblue;
+}
+
+.forecast_table {
+  margin-bottom: 20px;
+}
+
+.color-main {
+  color: lightgrey;
+}
+
+.color-desc {
+  color: grey;
+}
+
+.temp-symbol {
+  font-size: 30px;
+}
+
+.filter-btn {
+  margin: 4px;
+}
+
+.active-btn {
+  color: #40a9ff;
+  border-color: #40a9ff;
+}
+
+.select-text {
+  font-size: 10px;
+  padding: 13px;
+}
